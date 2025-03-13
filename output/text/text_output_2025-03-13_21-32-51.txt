@@ -1,0 +1,80 @@
+GitHub Inventory Report
+Total Repositories: 25
+Public Repos: 25
+Private Repos: 0
+
+1. Github_SVC (Public)
+  No description provided.
+
+2. SVC_repo (Public)
+  No description provided.
+
+3. SVC_Proj (Public)
+  No description provided.
+
+4. 30-seconds-of-code (Public)
+  Coding articles to level up your development skills
+
+5. Aimi (Public)
+  Physical aimbot for a variety[ish] of games including Osu! and Valorant
+
+6. Books (Public)
+  No description provided.
+
+7. Calculator (Public)
+  A calculator similar to windows calculator
+
+8. Cloud_Projects (Public)
+  Some cloud projects to practice cloud computing and devops concepts.
+
+9. College (Public)
+  No description provided.
+
+10. CPTProject (Public)
+  No description provided.
+
+11. DevOps-Practice (Public)
+  Get hands-on with DevOps practices like containerization, CI/CD and monitoring.
+
+12. Dinosaur-Game (Public)
+  Trying to automate Google Dinosaur Game
+
+13. Family_Tree_Management_System-Minor (Public)
+  The Family Tree Management System is a powerful C++ application designed to simplify the creation, management, and visualization of intricate family trees.
+
+14. first-contributions (Public)
+  🚀✨ Help beginners to contribute to open source projects
+
+15. FitZee-Minor (Public)
+  FitZee -: An Improvised Fitness App to Enhance your Lifestyle
+
+16. Live-Interpreter (Public)
+  The Real-Time HTML Editor is an interactive playground for web designers and developers, allowing them to write and test HTML, CSS, and JavaScript.
+
+17. P4wnP1_A.L.O.A (Public)
+  P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
+
+18. Practical-Cryptography-for-Developers-Book (Public)
+  Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
+
+19. pwnagotchi (Public)
+  (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+
+20. ROS2-Drone-Basic-Course-for-Beginners (Public)
+  ROS2 Drone Projects based on computer vision and Go to Goal Behaviour
+
+21. TrackNClassify-Major (Public)
+  No description provided.
+
+22. Uiana-MapImporter (Public)
+  No description provided.
+
+23. ULTIMATE-JAVASCRIPT-PROJECT (Public)
+  A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven.
+
+24. WorkflowWizard-Major (Public)
+  No description provided.
+
+25. Family-Tree-Management-System (Public)
+  The Family Tree Management System is a powerful C++ application designed to simplify the creation, management, and visualization of intricate family trees.
+

@@ -1,0 +1,9 @@
+2025-03-13 21:32:49,240 - INFO - [INFO] Folder checked: output/text
+2025-03-13 21:32:49,243 - INFO - [INFO] Folder checked: output/markdown
+2025-03-13 21:32:49,244 - INFO - \U0001f539 Starting GitHub Inventory Tool \U0001f539
+2025-03-13 21:32:49,289 - INFO - [INFO] Fetching repositories from GitHub...
+2025-03-13 21:32:51,832 - INFO - [SUCCESS] Retrieved 25 repositories.
+2025-03-13 21:32:51,835 - INFO - [INFO] Formatting repository data...
+2025-03-13 21:32:51,838 - INFO - [SAVED] Text report generated: output/text/text_output_2025-03-13_21-32-51.txt
+2025-03-13 21:32:51,840 - INFO - [SAVED] Markdown report generated: output/markdown/markdown_output_2025-03-13_21-32-51.md
+2025-03-13 21:32:51,841 - INFO - \u2705 Done. Exiting program.
