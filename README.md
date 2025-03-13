@@ -19,13 +19,14 @@ RepoTracker is a Python script that helps you fetch and organize your GitHub rep
 - Python 3.x
 - `requests` library: Used to interact with the GitHub API.
 - `python-dotenv` library: Used to load environment variables from a `.env` file.
+- `aiohttp` library: Used for parallel API calls to fetch large repo lists faster
 
 ## Setup
 
 1. Clone this repository or download the script files.
 2. Install the required dependencies:
    ```bash
-   pip install requests python-dotenv
+   pip install requests python-dotenv aiohttp
    ```
 
 3. Create a `.env` file in the project directory and add your GitHub credentials:
